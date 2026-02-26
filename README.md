@@ -20,6 +20,7 @@ The dashboard helps answer basic questions about different BMW car brands
 |----------|---------|
 | **No_of_Sales** | 11K |
 | **Revenue**| $242.00M |
+| **Average_Sales** | $22.69k |
 | **Total_Tax** | $1.40M |
 
 ---
